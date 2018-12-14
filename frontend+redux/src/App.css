@@ -17,3 +17,18 @@
     width: 0px;  /* remove scrollbar space */
     background: transparent;  /* optional: just make scrollbar invisible */
 }
+
+.formInput {
+    background-color: #00000066;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: 0px;
+}
+
+input.middle:focus {
+    outline-width: 0;
+}
+
+textarea.middle:focus {
+    outline-width: 0;
+}
